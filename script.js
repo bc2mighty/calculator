@@ -1,5 +1,6 @@
 const allNumbers = document.querySelectorAll(".num");
 
+
 const valueHolder = document.querySelector(".valueHolder");
 valueHolder.setAttribute("value","0");
 
